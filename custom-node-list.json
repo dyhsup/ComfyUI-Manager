@@ -123,6 +123,17 @@
             "description": "Provides nodes to utilise NVIDIA NIM, a set of accelerated inference microservices that allow you to run AI models on NVIDIA GPUs anywhere."
         },
         {
+            "author": "Baidu ERNIE-Image Team",
+            "title": "ComfyUI ERNIE Image",
+            "id": "comfyui-ernie-image",
+            "reference": "https://github.com/dyhsup/ComfyUI-ERNIE-Image.git",
+            "files":[
+                "https://github.com/dyhsup/ComfyUI-ERNIE-Image.git"
+            ],
+            "install_type": "git-clone",
+            "description": "A node pack for ERNIE-Image workflows, featuring a special PE mode"
+        },
+        {
             "author": "Stability-AI",
             "title": "Stability API nodes for ComfyUI",
             "id": "sai-api",
